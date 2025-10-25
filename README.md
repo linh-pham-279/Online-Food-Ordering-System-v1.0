@@ -92,8 +92,8 @@ _- Giai đoạn 3:_
   
 ## Metrics đo lường hiệu quả
 
-Tỷ lệ hoàn tất đơn hàng (%)
-Tỷ lệ đơn bị hủy do chậm chuẩn bị (%)
-Thời gian trung bình từ xác nhận đến giao hàng thành công (minutes)
-CSAT – Customer Satisfaction Score
-Tỷ lệ người dùng quay lại đặt hàng lần 2+
+- Tỷ lệ hoàn tất đơn hàng (%)
+- Tỷ lệ đơn bị hủy do chậm chuẩn bị (%)
+- Thời gian trung bình từ xác nhận đến giao hàng thành công (minutes)
+- CSAT – Customer Satisfaction Score
+- Tỷ lệ người dùng quay lại đặt hàng lần 2+
