@@ -17,3 +17,7 @@ Actor: Restaurant
 
 This app is similar to GrabFood, Baemin, or ShopeeFood, so you can imagine their familiar features.
 <img width="1297" height="731" alt="image" src="https://github.com/user-attachments/assets/dda28d55-6758-42ba-ba13-0ae407ce9df7" />
+
+Note: In this version, the SRS document is written using the traditional template suggested by "BA for practitioners" course that I have completed recently. It includes Use Cases (diagram and specification), screen flows and component descriptions, data flows (Activity Diagram), and descriptions.
+
+User Stories and Acceptance Criteria, along with other types of UML diagrams, will be added in a different version/project.
