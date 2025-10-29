@@ -3,6 +3,7 @@ This is my Personal Learning Project, created as part of my self-study journey t
 
 Background: 
 PM - Project Manager is asking you (BA - Business Analyst) to write detailed descriptions for important feature groups of the food delivery app that your team is developing: 
+
 Actor: User (Customer)
 - Search and select food
 - Order and pay
